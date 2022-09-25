@@ -1,0 +1,162 @@
+{
+    "language": "es",
+    "author": "Inforenv",
+    "json": {
+        "global": {
+            "browse": "Buscar",
+            "upload": "Subir",
+            "help": "Ayuda",
+            "about": "Acerca de",
+            "copyright": "Derechos de Autor",
+            "advertising": "Publicidad",
+            "loading": "cargando...",
+            "channel": "Canal",
+            "seeall": "ver todo",
+            "search": "Buscar",
+            "browsechannels": "Buscar canales",
+            "press": "Prensa & Blogs",
+            "creators": "Creadores & Socios"
+        },
+        "channels": {
+            "creatorBar": {
+                "analytics": "Estadisticas",
+                "videomanager": "Gestor de Videos",
+                "settings": "Ajustes del Canal"
+            },
+            "header": {
+                "stats": {
+                    "subscriber": "suscriptor",
+                    "subscribers": "suscriptores",
+                    "videoview": "vista del video",
+                    "videoviews": "visitas del video"
+                },
+                "tabs": {
+                    "featured": "Destacado",
+                    "videos": "Buscar videos",
+                    "search": "Buscar canales"
+                }
+            },
+            "body": {
+                "secondaryPane": {
+                    "userProfile": {
+                        "about": "Acerca de %s",
+                        "createdBy": {
+                            "by": "por %s"
+                        }
+                    }
+                }
+            }
+        },
+        "stats": {
+            "likesdislikes": "%s likes, %r dislikes"
+        },
+        "buttons": {
+            "like": "Like",
+            "addto": "Añadir a",
+            "share": "Compartir",
+            "showmore": "Mostrar mas",
+            "showless": "Mostrar menos",
+            "subscribe": "Suscribirse",
+            "subscribed": "Suscrito",
+            "unsubscribe": "Desuscribirse",
+            "post": "Publicación",
+            "loadmoresuggestions": "Cargar mas sugerencias",
+            "signin": "Registrarse"
+        },
+        "suggestions": {
+            "loading": "Cargando mas sugerencias..."
+        },
+        "comments": {
+            "charactersremain": "%s caracteres restantes",
+            "secondsremain": "%s segundos restantes antes de que puedas publicar",
+            "loading": "Cargando comentario...",
+            "allcomments": "Todos los comentarios",
+            "topcomments": "Comentarios más populares",
+            "respond": "Responde a este video..."
+        },
+        "tooltip": {
+            "ilikethis": "Me gusta esto",
+            "idislikethis": "No me gusta esto",
+            "addto": "Agregar a favoritos o lista de reproducción",
+            "share": "Comparte o inserta este video",
+            "flag": "Marcar como inapropiado",
+            "statistics": "Mostrar estadísticas de vídeo",
+            "clicktobe": "Haga clic para recibir notificaciones de nuevos videos de este canal.",
+            "interactive": "Transcripción interactiva"
+        },
+        "player": {
+            "mute": "Silenciar",
+            "unmute": "Desilenciar",
+            "quality": "Cambiar calidad",
+            "fullscreen": "Pantalla completa"
+        },
+        "watch": {
+            "tags": "Etiquetas",
+            "license": "Licencia",
+            "uploaderinfo": "Subido por %s el %r",
+            "category": "Categoria",
+            "from": "Desde: %s",
+            "uploadedavideo": "%s subio un video",
+            "islive": "%s esta en vivo",
+            "by": "por %s"
+        },    
+        "uploadmonth": {
+            "jan": "Ene",
+            "feb": "Feb",
+            "mar": "Mar",
+            "apr": "Abr",
+            "may": "May",
+            "jun": "Jun",
+            "jul": "Jul",
+            "aug": "Ago",
+            "sep": "Sep",
+            "oct": "Oct",
+            "nov": "Nov",
+            "dec": "Dic"
+        },
+        "about": {
+            "country": "Pais:",
+            "membersince": "Unido:",
+            "viewedcounts": "Vistas:",
+            "viewedcount": "Visto:",
+            "sub": "Subscriber:",
+            "subs": "Subscriptores:"
+        },
+        "customtag": {
+            "age": "Edad:",
+            "occupation": "Ocupación:"
+        },
+        "personal": {
+            "mychannel": "Mi canal",
+            "videos": "Videos",
+            "likes": "Likes",
+            "history": "Historial",
+            "watchlater": "Ver despues",
+            "videomanager": "Gestor de vídeo",
+            "youtubesettings": "Configuraciones de YouTube",
+            "subscriptions": "Subscripciones",
+            "profile": "Perfil",
+            "privacy": "Privacidad",
+            "settings": "Ajustes",
+            "signout": "Cerrar sesión",
+            "switchaccount": "Cambiar de cuenta",
+            "googleaccount": "Cuenta de Google"
+        },
+        "browse": {
+            "mostviewed": "Más visto hoy",
+            "recommended": "Para ti"
+        },
+        "guide": {
+            "fromyt": "De YouTube",
+            "trending": "Tendencias",
+            "popular": "Popular",
+            "music": "Musica",
+            "live": "En vivo",
+            "gaming": "Gaming",
+            "news": "Noticias",
+            "sports": "Deportes",
+            "education": "Educación",
+            "howto": "Cómo & estilo"
+        }
+    }
+}
