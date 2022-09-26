@@ -19,21 +19,21 @@
         },
         "channels": {
             "creatorBar": {
-                "analytics": "Аналітика",
-                "videomanager": "Відео Менеджер",
-                "settings": "Налаштування"
+                "analytics": "Аналитика",
+                "videomanager": "Менджер Видео",
+                "settings": "Настройки"
             },
             "header": {
                 "stats": {
-                    "subscriber": "підписник",
-                    "subscribers": "підписників",
-                    "videoview": "перегляд",
-                    "videoviews": "переглядів"
+                    "subscriber": "подпсчик",
+                    "subscribers": "подписчиков",
+                    "videoview": "просмотр",
+                    "videoviews": "просмотров"
                 },
                 "tabs": {
-                    "featured": "Рекомендовані",
-                    "videos": "Відео",
-                    "search": "Канали"
+                    "featured": "Рекомендованные",
+                    "videos": "Видео",
+                    "search": "Каналы"
                 }
             },
             "body": {
@@ -41,7 +41,7 @@
                     "userProfile": {
                         "about": "О %s",
                         "createdBy": {
-                            "by": "Від %s"
+                            "by": "От %s"
                         }
                     }
                 }
