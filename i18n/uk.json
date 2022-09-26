@@ -1,4 +1,3 @@
-/* For this language you need to find cosmic cat userscript and open -> find "lang: { ... (and add string " "uk": "Українська" ") }" / Для цієї мови ти повинен знайти свій cosmic cat userscript та відкрий його -> знайди "lang: { ... (та додати " "uk": "Українська") " }"  */
 {
     "language": "uk",
     "author": "LukHJA",
