@@ -10,7 +10,7 @@
             "copyright": "Копірайт",
             "advertising": "Реклама",
             "loading": "Завантаження...",
-            "channel": "Канал",
+            "channel": "Канал %s",
             "seeall": "Подивитись все",
             "search": "Пошук",
             "browsechannels": "Шукати канали",
