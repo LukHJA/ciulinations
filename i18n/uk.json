@@ -85,7 +85,7 @@
             "interactive": "Транскріпція відео"
         },
         "player": {
-            "mute": "Заглушити",
+            "mute": "Заглушити звук",
             "unmute": "Повернути звук",
             "quality": "Якість відео",
             "fullscreen": "На весь екран"
@@ -93,7 +93,7 @@
         "watch": {
             "tags": "Теги",
             "license": "Ліцензія",
-            "uploaderinfo": "Subido por %s el %r",
+            "uploaderinfo": "Додано %s  %r",
             "category": "Категорія",
             "from": "Від: %s",
             "uploadedavideo": "%s доданне відео",
@@ -116,15 +116,15 @@
         },
         "about": {
             "country": "Країна:",
-            "membersince": "Unido:",
+            "membersince": "Зареєстрован:",
             "viewedcounts": "Переглядів:",
             "viewedcount": "Перегляд:",
             "sub": "Підписник:",
             "subs": "підписників:"
         },
         "customtag": {
-            "age": "Edad:",
-            "occupation": "Ocupación:"
+            "age": "Вік:",
+            "occupation": "Заняття:"
         },
         "personal": {
             "mychannel": "Мій канал",
