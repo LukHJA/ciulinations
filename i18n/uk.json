@@ -98,7 +98,7 @@
             "from": "Від: %s",
             "uploadedavideo": "%s доданне відео",
             "islive": "%s наживо",
-            "by": "por %s"
+            "by": "Від %s"
         },    
         "uploadmonth": {
             "jan": "Січ",
@@ -117,8 +117,8 @@
         "about": {
             "country": "Країна:",
             "membersince": "Unido:",
-            "viewedcounts": "Vistas:",
-            "viewedcount": "Visto:",
+            "viewedcounts": "Переглядів:",
+            "viewedcount": "Перегляд:",
             "sub": "Підписник:",
             "subs": "підписників:"
         },
@@ -136,7 +136,7 @@
             "youtubesettings": "Налаштування YouTube",
             "subscriptions": "Підписки",
             "profile": "Профіль",
-            "privacy": "Privacidad",
+            "privacy": "Конфідеційність",
             "settings": "Налаштування",
             "signout": "Вийти",
             "switchaccount": "Змінити обліковий запис",
@@ -144,10 +144,10 @@
         },
         "browse": {
             "mostviewed": "Найпопулярніші Відео",
-            "recommended": "Para ti"
+            "recommended": "Рекомендовані"
         },
         "guide": {
-            "fromyt": "Зроблено YouTube",
+            "fromyt": "Від YouTube",
             "trending": "У Тренді",
             "popular": "Популярне",
             "music": "Музика",
@@ -156,7 +156,7 @@
             "news": "Новини",
             "sports": "Спорт",
             "education": "Освіта",
-            "howto": "Як зробити"
+            "howto": "Гламур"
         }
     }
 }
