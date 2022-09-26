@@ -15,7 +15,7 @@
             "seeall": "Подивитись все",
             "search": "Пошук",
             "browsechannels": "Шукати канали",
-            "press": "Prensa & Blogs",
+            "press": "Преса та Блоги",
             "creators": "Креатори"
         },
         "channels": {
@@ -92,7 +92,7 @@
             "fullscreen": "На весь екран"
         },
         "watch": {
-            "tags": "Etiquetas",
+            "tags": "Теги",
             "license": "Ліцензія",
             "uploaderinfo": "Subido por %s el %r",
             "category": "Категорія",
