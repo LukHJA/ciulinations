@@ -16,7 +16,9 @@
             "browsechannels": "Шукати канали",
             "press": "Преса та Блоги",
             "creators": "Креатори",
-            "languagespan": "Мова"
+            "languagespan": "Мова",
+            "countryspan": "Країна",
+            "safetyspan": "Режим захисту"
         },
         "channels": {
             "creatorBar": {
