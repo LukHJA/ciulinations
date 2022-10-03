@@ -16,9 +16,9 @@
             "browsechannels": "Gennemse kanaler",
             "press": "Presse og blogs",
             "creators": "Skabere og partnere",
-            "languagespan": "Sprog",
-            "countryspan": "Land",
-            "safetyspan": "Sikkerhed"
+            "languagespan": "Sprog: ",
+            "countryspan": "Land: ",
+            "safetyspan": "Sikkerhed: "
         },
         "about": {
             "country": "Land:",
