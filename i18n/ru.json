@@ -16,7 +16,9 @@
             "browsechannels": "Просмотр каналов",
             "press": "Блог YouTube",
             "creators": "Создателям контента",
-            "languagespan": "Язык: "
+            "languagespan": "Язык: ",
+            "countryspan": "Страна: ",
+            "safetyspan": "Безопасный режим: "
         },
         "channels": {
             "creatorBar": {
