@@ -17,6 +17,8 @@
             "press": "Press & Blogs",
             "creators": "Creators & Partners"
             "languagespan": "Language: "
+            "countryspan": "Country: ",
+            "safetyspan": "Safety: "
         },
         "channels": {
             "creatorBar": {
