@@ -15,7 +15,8 @@
             "search": "Поиск",
             "browsechannels": "Просмотр каналов",
             "press": "Блог YouTube",
-            "creators": "Создателям контента"
+            "creators": "Создателям контента",
+            "languagespan": "Язык: "
         },
         "channels": {
             "creatorBar": {
