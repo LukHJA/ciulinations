@@ -16,7 +16,9 @@
             "browsechannels": "Buscar canales",
             "press": "Prensa & Blogs",
             "creators": "Creadores & Socios",
-            "languagespan": "El idioma"
+            "languagespan": "El idioma",
+            "countryspan": "El país: ",
+            "safetyspan": "La seguridad: "
         },
         "channels": {
             "creatorBar": {
