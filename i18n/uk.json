@@ -15,7 +15,8 @@
             "search": "Пошук",
             "browsechannels": "Шукати канали",
             "press": "Преса та Блоги",
-            "creators": "Креатори"
+            "creators": "Креатори",
+            "languagespan": "Мова"
         },
         "channels": {
             "creatorBar": {
