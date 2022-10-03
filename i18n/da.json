@@ -15,7 +15,10 @@
             "search": "Søg",
             "browsechannels": "Gennemse kanaler",
             "press": "Presse og blogs",
-            "creators": "Skabere og partnere"
+            "creators": "Skabere og partnere",
+            "languagespan": "Sprog",
+            "countryspan": "Land",
+            "safetyspan": "Sikkerhed"
         },
         "about": {
             "country": "Land:",
